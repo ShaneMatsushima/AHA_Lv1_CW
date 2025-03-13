@@ -16,7 +16,8 @@ def sum_list():
     sum = 0
     # ========== START CODING HERE ==========
     # TODO loop through the list and add each element to the variable sum
-
+    for i in range(len(num)):
+        sum += num[i]
 
     # =======================================
     return sum
@@ -27,7 +28,8 @@ def sum_list():
 def add_to_list(lst:list) -> list:
     # ========== START CODING HERE ==========
     # TODO add 1 to each element in the list
-
+    for i in range(len(lst)):
+        lst[i] += 1
     # =======================================
     return lst
 

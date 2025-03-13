@@ -15,7 +15,6 @@ def loop_sum():
     # NOTE use the range function to iterate through a loop 
 
 
-
     # =======================================
     return sum
 
@@ -26,7 +25,7 @@ def while_loop():
     # =======================================
 
     # ========== START CODING HERE ==========
-    # TODO Create a while loop that keeps iterating count until count is 5
+    # TODO Create a while loop that keeps iterating count until count is 4
     # TODO inside the loop, add count to sum
 
     
