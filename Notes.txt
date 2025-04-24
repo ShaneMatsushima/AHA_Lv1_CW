@@ -2,3 +2,6 @@ FUTURE TODO:
 - add portion about plants being used and tie it into the project
 - cutlure aspect needed
 - change coursework to jupiter notebook but leave project portion untouched
+- implement easier way to see wiring diagram
+- incorporate better slides about IoT and API's 
+- Integrate into a jupiter notebook

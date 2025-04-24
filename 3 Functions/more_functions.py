@@ -23,6 +23,7 @@
 # TODO Create a function that takes in two lists of integers and multiplies each element 
 # in the first list by the corresponding element in the second list. The function should return
 # a new list with the results of the multiplications. The function name should be multiply_lists
+# You can assume the lists are of equal length
 #
 # Example:
 #  inputs:
